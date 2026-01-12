@@ -1,0 +1,11 @@
+main:
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Courses"
+    url: /courses/
+  - title: "Contact"
+    url: /contact/
+  - title: "Alphabetter"
+    url: https://github.com/mikhael2/alphabetter-mac
