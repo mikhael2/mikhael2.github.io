@@ -1,5 +1,5 @@
 ---
-title: "Mikhael Hayes"
+title: "maɪ̯kl̩ heɪ̯z"
 layout: single
 author_profile: true
 ---
