@@ -1,5 +1,5 @@
 ---
-title: "maɪ̯kl̩ heɪ̯z"
+title: "[maɪ̯kl̩ heɪ̯z]"
 layout: single
 author_profile: true
 ---
