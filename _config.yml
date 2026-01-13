@@ -3,8 +3,8 @@ description: "About Mikhael's work in language"
 url: "https://mikhael2.github.io"
 baseurl: ""
 
-remote_theme: "tactile-jekyll/tactile-jekyll-theme"
-minimal_mistakes_skin: "dark"
+theme: jekyll-theme-tactile
+
 
 plugins:
   - jekyll-include-cache
