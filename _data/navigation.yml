@@ -8,4 +8,5 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Alphabetter"
-    url: https://github.com/mikhael2/alphabetter-mac
+    url: "https://github.com/mikhael2/alphabetter-mac"
+
