@@ -1,13 +1,12 @@
 title: "Mikhael Hayes"
-description: "About Mikhael's work in language"
+description: "A website about Mikhael's academic work"
 url: "https://mikhael2.github.io"
 baseurl: ""
 
-theme: jekyll-theme-tactile
-
+remote_theme: pages-themes/tactile
 
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
-atom_feed:
-  hide: true
+  - jekyll-sitemap
+
+markdown: kramdown
