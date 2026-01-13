@@ -3,10 +3,9 @@ description: "A website about Mikhael's academic work"
 url: "https://mikhael2.github.io"
 baseurl: ""
 
-remote_theme: pages-themes/tactile
+theme: jekyll-theme-tactile
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-sitemap
 
 markdown: kramdown
