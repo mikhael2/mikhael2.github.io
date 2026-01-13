@@ -3,9 +3,15 @@ description: "A website about Mikhael's academic work"
 url: "https://mikhael2.github.io"
 baseurl: ""
 
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-sitemap
 
 markdown: kramdown
+
+atom_feed:
+  hide: true
