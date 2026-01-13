@@ -1,7 +1,7 @@
 ---
 title: "[maɪ̯kl̩ heɪ̯z]"
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Mikhael Hayes" width="200">
