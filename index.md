@@ -20,4 +20,4 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. (submitted)
 
 ## Alphabetter app for IPA input
-I built a free app for macOS. Check it out on my GitHub: https://github.com/mikhael2/alphabetter-mac
+I built a free app for macOS. Check it out on my [GitHub](https://github.com/mikhael2/alphabetter-mac).
