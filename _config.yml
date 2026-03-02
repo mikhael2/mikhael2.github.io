@@ -2,15 +2,6 @@ title: "Mikhael Hayes"
 description: "A website about Mikhael's work in linguistics"
 url: "https://mikhael2.github.io"
 baseurl: ""
-author:
-  name: "Mikhael Hayes"
-  avatar: "/assets/img/profile.png" 
-  bio: "PhD Student in Linguistics"
-  location: "Urbana-Champaign, IL"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mikhaelhayes"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
