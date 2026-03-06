@@ -12,7 +12,7 @@ Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological m
 
 ### Poster: a TSL model of rhyme in "Roses are red"
 
-<div style="width:150%; text-align:center;">
+<div style="width:100%; text-align:center;">
   <a href="{{ '/assets/poster.pdf' | relative_url }}" target="_blank">
     <img src="{{ '/assets/img/poster.png' | relative_url }}"
          style="width:100%; max-width:1600px; height:auto; border:1px solid #ccc;">
