@@ -16,9 +16,10 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL (Indiana University). November 2024.
 
 ## Papers
-- **Computing rhyme** (in progress)
+- **Computing rhyme: a tier-based strictly local approach
+to poetic rhyme as harmony** with Scott Nelson (in progress)
 - **_Sounds, the same but different_: a tier-based strictly local unification of English rhyme and Chinese tonal contrast in poetry** (submitted)
-- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. (submitted)
+- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde (submitted)
 
 ## Alphabetter app for IPA input
 I built a free app for macOS. Check it out on [GitHub](https://github.com/mikhael2/alphabetter-mac).
