@@ -10,7 +10,7 @@ Phonology, poetry, Basque, historical linguistics.
 ### More narrow interests
 Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological maps, origins of Basque, cognitive requirements of Basque improvised poetry duels (bertsolaritza).
 
-### Poster: a TSL model of rhyme in "Roses are red"
+### Poster from LSA Annual Meeting
 
 <div style="width:100%; text-align:center;">
   <a href="{{ '/assets/poster.pdf' | relative_url }}" target="_blank">
