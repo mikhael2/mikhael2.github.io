@@ -17,7 +17,7 @@ Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological m
 </p>
 <iframe
   src="{{ '/assets/poster.pdf' | relative_url }}"
-  width="100%"
-  height="100%"
+  width="150%"
+  height="500px"
   style="border: none;">
 </iframe>
