@@ -18,6 +18,6 @@ Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological m
 <iframe
   src="{{ '/assets/poster.pdf' | relative_url }}"
   width="100%"
-  height="900px"
+  height="100%"
   style="border: none;">
 </iframe>
