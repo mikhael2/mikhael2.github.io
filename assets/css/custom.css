@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url('../img/bg.png') no-repeat center center fixed !important;
+  background: url('../img/bg-subtle.png') no-repeat center center fixed !important;
   background-size: cover !important;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
   color: var(--text-main) !important;
