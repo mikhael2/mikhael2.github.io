@@ -6,7 +6,7 @@ author_profile: false
 
 <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Mikhael Hayes" width="200">
 
-I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history. You can email me at mikhael2 [at] illinois [dot] edu.
+I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 
 ## Presentations
 - **Poetic Rhyme as a Tier-Based Strictly Local Constraint** with Scott Nelson. Poster. LSA Annual Meeting (New Orleans). January 2026.
