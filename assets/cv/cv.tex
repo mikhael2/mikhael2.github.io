@@ -1,0 +1,271 @@
+% !TEX program = xelatex
+% --- Set document class and font size ---
+
+\documentclass[letterpaper, 11pt]{article}
+
+% --- Package imports ---
+
+\usepackage{hyperref, enumitem, longtable, amsmath, array}
+
+% --- Page layout settings ---
+
+% Set page margins
+\usepackage[left=0.5in, right=0.5in, bottom=0.5in, top=0.5in, headsep=0.3in, footskip=.3in]{geometry}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.15}
+
+% --- Page formatting settings ---
+
+% Set link colors
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=black}
+% --- Modern Font setup for XeLaTeX ---
+\usepackage{fontspec}
+\usepackage{unicode-math} % Replaces newtxmath for better Unicode support
+
+% Sets the main font to Gentium Plus for complete support of linguistic and Greek symbols
+\setmainfont{GentiumPlus}[
+    Path = /usr/local/texlive/2025/texmf-dist/fonts/truetype/SIL/gentium-sil/,
+    Extension = .ttf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+]
+
+% Matches the math font for consistency; explicitly load the bold version to avoid warnings
+\setmathfont{XCharter-Math.otf}[Path = /usr/local/texlive/2025/texmf-dist/fonts/opentype/public/xcharter-math/]
+\setmathfont{XCharter-Math-Bold.otf}[
+    version = bold,
+    Path = /usr/local/texlive/2025/texmf-dist/fonts/opentype/public/xcharter-math/
+]
+
+% Remove page numbering
+\pagenumbering{gobble}
+
+% Define accent color
+\definecolor{accentcolor}{HTML}{699EA0}
+
+% Define font size and color for section headings
+\newcommand{\headingfont}{\Large\color{accentcolor}}
+
+% --- CV section settings ---
+
+% Note: each section of this table (Education, Awards, Publications etc.) is 
+% stored in a two-column table. The left-hand column is narrow (1 inch) and is 
+% meant to store dates. The right-hand column is wide (5.2 inches) and stores 
+% the main text.  Sections in which each entry might have multiple lines 
+% (e.g., Education) are stored in a 'SectionTable' environment). Sections in 
+% which each entry might just have one line are stored in a 'SectionTableSingleSpace'
+% environment. The only difference between the two environments is the line 
+% spacing between each entry. Both environments take one argument, which is the
+% title of the section. See main document for how these environments are used.
+
+% Define settings for left-hand column in which dates are printed
+\newcolumntype{R}{>{\raggedleft}p{1in}}
+
+% Define 'SectionTable' environment
+\newenvironment{SectionTable}[1]{
+	\setlength{\LTpre}{0pt}
+	\setlength{\LTpost}{0pt}
+	\renewcommand*{\arraystretch}{1.4}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{5.9in}} & #1 \\}
+{\end{longtable}\vspace{0.25cm}}
+
+% Define 'SectionTableSingleSpace' environment
+\newenvironment{SectionTableSingleSpace}[1]{
+	\setlength{\LTpre}{0pt}
+	\setlength{\LTpost}{0pt}
+	\renewcommand*{\arraystretch}{1.2}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{5.9in}} & #1 \\}
+{\end{longtable}\vspace{0.25cm}}
+
+% --- Document starts here ---
+
+\begin{document}
+
+% --- Name and contact information ---
+
+\begin{SectionTable}{\Huge Mikhael E. Hayes} &
+	mikhael2@illinois.edu   $\;\symbf{\cdot}\;$ +1-317-395-4213 $\;\symbf{\cdot}\;$ \href{https://mikhael2.github.io}{mikhael2.github.io}
+\end{SectionTable}
+
+% --- Section: Interests ---
+
+\begin{SectionTable}{\headingfont Interests}
+	& Phonology, Poetic Rhyme, Subregular Computation, Basque, Language Change
+\end{SectionTable}
+
+% --- Section: Education ---
+
+\begin{SectionTable}{\headingfont Education}
+	2023 -- Present &
+	\textbf{University of Illinois Urbana-Champaign} -- Urbana, IL \newline
+	PhD in Linguistics (Expected May 2028), MA in Linguistics (May 2025) \newline
+	Certificate in Romance Linguistics \newline
+	\textit{GPA: 3.98} \\
+
+	2019 -- 2023 &
+	\textbf{Indiana University Bloomington} -- Bloomington, IN \newline
+	BA in Linguistics, BA in Hispanic Linguistics; Minor in Human-Centered Computing \newline
+	\textit{GPA: 3.98} \\
+
+	Spring 2022 &
+	\textbf{Universidad Complutense de Madrid} -- Madrid, Spain \newline
+	Study Abroad program fulfilling linguistics and literature requirements.
+\end{SectionTable}
+
+% --- Section: Writing ---
+
+\begin{SectionTable}{\headingfont Writing}
+	April 2026 &
+	\textbf{\textit{Raddoppiamento Sintattico} in Logical Phonology} \newline
+	Available on \href{https://ling.auf.net/lingbuzz/009911}{lingbuzz}. \\
+
+	In Progress &
+	\textbf{Computing Rhyme: A Tier-Based Strictly Local Approach to Poetic Rhyme as Harmony} \newline
+	With Scott Nelson, for \textit{Glossa}. \\
+
+	Submitted February 2026 &
+	\textbf{\textit{Sounds, the same but different}: A Tier-Based Strictly Local Unification of English Rhyme and Chinese Tonal Contrast in Poetry} \newline
+	For the special issue \textit{Meaning, Form, and History in Computational Poetics} in \textit{Computational Humanities Research} (Cambridge). \\
+
+	Submitted November 2025 &
+	\textbf{Quantifying Aspiration in Zuberoan Basque} \newline
+	With José Ignacio Hualde, for \textit{Anuario del Seminario de Filología Vasca ``Julio de Urquijo''} (ASJU).
+\end{SectionTable}
+
+% --- Section: Presenting ---
+
+\begin{SectionTable}{\headingfont Presenting}
+	January 2026 &
+	\textbf{Poetic Rhyme as a Tier-Based Strictly Local Constraint} \newline
+	Poster at the \textit{2026 Linguistic Society of America Annual Meeting} (LSA), New Orleans (with Scott Nelson). \\
+
+	November 2025 &
+	\textbf{Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque} \newline
+	Talk at the \textit{First International Conference on the History of Basque} (ICHB1), University of the Basque Country. \\
+
+	November 2025 &
+	\textbf{Computing Rhyme} \newline
+	Talk at the \textit{2025 Rutgers Subregular Morphophonology Workshop}, Rutgers University. \\
+
+	October 2025 &
+	\textbf{Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque} \newline
+	Poster at the \textit{29th Mid-Continental Phonetics and Phonology Conference} (MidPhon 29), Indiana University. \\
+
+	November 2024 &
+	\textbf{Tell it to me straight: Refusals in comparative pragmatics} \newline
+	Talk at \textit{Pragmatics and Language Learning} (PLL), Indiana University.
+\end{SectionTable}
+
+% --- Section: Research ---
+
+\begin{SectionTable}{\headingfont Research}
+	August 2025 &
+	\textbf{Caucasian Languages in Georgia Summer Fieldwork} -- Zemo Alvani, Georgia \newline
+	Fieldwork documenting Tsova-Tush (Nakh-Daghestani); analysis of poetic rhyme. \\
+
+	2021 -- 2023 &
+	\textbf{Research Assistant (IU)} \newline
+	Supervisor: J. César Félix-Brasdefer. \newline
+	Audio processing, transcription, data entry for Spanish/English pragmatics research; copyediting; website maintenance. \\
+
+	Summer 2021 &
+	\textbf{Linguistics Intern (The Language Conservancy)} \newline
+	Revitalization work for Cowlitz Coast Salish (ƛ̕púlmixq). Lemma revision in Cowlitz-English bilingual dictionary.
+\end{SectionTable}
+
+% --- Section: Teaching ---
+
+\begin{SectionTable}{\headingfont Teaching}
+	Spring 2026 &
+	\textbf{Instructor of Record, LING 210: Language History (UIUC)} \newline
+	Lead lectures and discussions; design syllabus and materials; evaluate student progress. \\
+
+	Spring 2026 &
+	\textbf{Teaching assistant, LING 302: Elements of Phonology (UIUC)} \newline
+	Lead review sessions and assist students in office hours. \\
+
+	Fall 2025 &
+	\textbf{Instructor of Record, LING 210: Language History (UIUC)} \newline
+	Lead lectures and discussions; design syllabus and course materials. \\
+
+	Fall 2025 &
+	\textbf{Grader, LING 502: Phonology I (UIUC)} \newline
+	Evaluate graduate-level assignments and provide feedback. \\
+
+	Spring 2025 &
+	\textbf{Teaching assistant, LING 225: Language, Mind, and Brain (UIUC)} \newline
+	Lead discussion seminars in psycholinguistics. \\
+
+	Fall 2024 &
+	\textbf{Teaching assistant, LING 100: Intro to Language Science (UIUC)} \newline
+	Facilitate discussion-based learning for introductory linguistics. \\
+
+	Summer 2022 &
+	\textbf{Undergraduate Teaching Assistant, SLST-S 135: Foundations of the American Experience (IU)} \newline
+	Assist international students in acclimating to American academia (with Rex Sprouse). \\
+
+	Fall 2021 &
+	\textbf{Undergraduate Teaching Assistant, LING-L 307: Phonology (IU)} \newline
+	Facilitate learning of foundational phonology concepts; assist in office hours (with Stuart Davis). \\
+
+	Fall 2020 &
+	\textbf{Undergraduate Teaching Assistant, LING-L 103: Intro to Linguistic Analysis (IU)} \newline
+	Facilitate learning of fundamental linguistic concepts (with Ann Bunger).
+\end{SectionTable}
+
+
+% --- Section: Honors ---
+
+\begin{SectionTableSingleSpace}{\headingfont Honors}
+	2023 -- Present & Community of Scholars Fellowship (UIUC) \\
+	2022 & Phi Beta Kappa (ΦΒΚ) \\
+	2021 -- 2023 & Sigma Delta Pi (ΣΔΠ) Spanish Honors Society, Vice-President (IU) \\
+	2019 -- 2023 & Adam W. Herbert Presidential Scholar (IU) \\
+	2019 -- 2023 & Founders Scholar for Sustained Academic Excellence (IU) \\
+	2019 -- 2023 & Executive Dean's List (IU) \\
+	2020 -- 2023 & Hispanic Scholarship Fund Scholar
+\end{SectionTableSingleSpace}
+
+% --- Section: Involvement ---
+
+\begin{SectionTable}{\headingfont Involvement}
+	2026 -- Present &
+	\textbf{Alphabetter: Native macOS IPA Input Utility, Developer} \newline
+	Developed a free macOS utility for rapid International Phonetic Alphabet (IPA) input for linguists. \\
+
+	2024 -- Present &
+	\textbf{Phonetics and Phonology Forum (F3) and Historical Reading Group (UIUC), Member} \newline
+	Participate in academic reading groups and present own research. \\
+
+	2019 -- 2023 &
+	\textbf{Honors Student Organization (IU), Vice President} \newline
+	Coordinate events for the Hutton community; manage budgets and local business relations. \\
+
+	2021 -- 2022 &
+	\textbf{Hutton Honors College Funding Board (IU), Member} \newline
+	Review student organization funding petitions. \\
+
+	Fall 2020 &
+	\textbf{Feedback Assistant (IU)} \newline
+	Provide linguistic feedback and speech improvement critiques for international teaching applicants (TEPAIC).
+\end{SectionTable}
+
+% --- Section: Skills ---
+
+\begin{SectionTable}{\headingfont Skills}
+	& \textbf{Technical Skills} \newline
+	Audio Editing/Transcription, Copyediting, Website Maintenance, Analytical Research, Swift, macOS Development, \LaTeX, Git, Python, R \\
+
+	& \textbf{Languages} \newline
+	English (Native), Spanish (Heritage Bilingual), Italian (Limited Working), Basque (Limited Working), French (Limited Working).
+\end{SectionTable}
+
+% --- End of CV ---
+
+\end{document}
