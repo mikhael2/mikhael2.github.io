@@ -16,7 +16,7 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL (Indiana University). November 2024.
 
 ## Papers
-- **_Raddoppiamento sintattico_ in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911))
+- **_Raddoppiamento Sintattico_ in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911))
 - **Computing rhyme: a tier-based strictly local approach
 to poetic rhyme as harmony** with Scott Nelson (in progress)
 - **_Sounds, the same but different_: a tier-based strictly local unification of English rhyme and Chinese tonal contrast in poetry** (submitted)
