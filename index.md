@@ -9,11 +9,11 @@ author_profile: false
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 
 ## Papers
+- **Quantifying Aspiration in Zuberoan Basque** with José Ignacio Hualde (accepted)
 - **_Raddoppiamento Sintattico_ in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911))
 - **Computing rhyme: a tier-based strictly local approach
 to poetic rhyme as harmony** with Scott Nelson (in progress)
 - **_Sounds, the same but different_: a tier-based strictly local unification of English rhyme and Chinese tonal contrast in poetry** (submitted)
-- **Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde (submitted)
 
 ## Presentations
 - **Poetic Rhyme as a Tier-Based Strictly Local Constraint** with Scott Nelson. Poster. LSA Annual Meeting (New Orleans). January 2026.
