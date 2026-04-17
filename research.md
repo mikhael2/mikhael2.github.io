@@ -9,7 +9,7 @@ classes: wide
 Phonology, poetry, Basque, historical linguistics.
 
 ### Narrower interests
-Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological maps, origins of Basque, cognitive requirements of Basque improvised poetry duels (bertsolaritza).
+Rhyme (and other poetic agreements) as harmony, subregular models of phonological maps, evolution of Basque, cognitive requirements of Basque improvised poetry duels (bertsolaritza).
 
 ### Poster from LSA 2026
 
