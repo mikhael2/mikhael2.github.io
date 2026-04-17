@@ -14,3 +14,9 @@ markdown: kramdown
 
 atom_feed:
   hide: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      classes: wide
