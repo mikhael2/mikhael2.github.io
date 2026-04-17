@@ -9,18 +9,17 @@ author_profile: false
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 
 ## Writing
-- **Quantifying Aspiration in Zuberoan Basque** with José Ignacio Hualde (accepted)
-- **_Raddoppiamento Sintattico_ in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911))
-- **Computing rhyme: a tier-based strictly local approach
-to poetic rhyme as harmony** with Scott Nelson (in progress)
-- **_Sounds, the same but different_: a tier-based strictly local unification of English rhyme and Chinese tonal contrast in poetry** (submitted)
+- **Quantifying Aspiration in Zuberoan Basque**. With José Ignacio Hualde, for _Anuario del Seminario de Filología Vasca "Julio de Urquijo"_ (ASJU). (Accepted April 2026)
+- **_Raddoppiamento Sintattico_ in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911)). (April 2026)
+- **Computing Rhyme: A Tier-Based Strictly Local Approach to Poetic Rhyme as Harmony**. With Scott Nelson, for _Glossa_. (In progress)
+- **_Sounds, the same but different_: A Tier-Based Strictly Local Unification of English Rhyme and Chinese Tonal Contrast in Poetry**. For the special issue _Meaning, Form, and History in Computational Poetics_ in _Computational Humanities Research_ (Cambridge). (Submitted February 2026)
 
 ## Presenting
-- **Poetic Rhyme as a Tier-Based Strictly Local Constraint** with Scott Nelson. Poster. LSA Annual Meeting (New Orleans). January 2026.
-- **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque** with José Ignacio Hualde. Talk. ICHB1 (University of the Basque Country). November 2025.
-- **Computing Rhyme**. Subregular Morphophonology Workshop (Rutgers). Talk. November 2025.
-- **Aspiration and its historical sources: Quantifying aspiration in Zuberoan Basque**. Poster. MidPhon (Indiana University). October 2025.
-- **Tell it to me straight: Refusals in comparative pragmatics**. Talk. PLL (Indiana University). November 2024.
+- **Poetic Rhyme as a Tier-Based Strictly Local Constraint**. Poster at the _2026 Linguistic Society of America Annual Meeting_ (LSA), New Orleans (with Scott Nelson). January 2026.
+- **Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque**. Talk at the _First International Conference on the History of Basque_ (ICHB1), University of the Basque Country. November 2025.
+- **Computing Rhyme**. Talk at the _2025 Rutgers Subregular Morphophonology Workshop_, Rutgers University. November 2025.
+- **Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque**. Poster at the _29th Mid-Continental Phonetics and Phonology Conference_ (MidPhon 29), Indiana University. October 2025.
+- **Tell it to me straight: Refusals in comparative pragmatics**. Talk at _Pragmatics and Language Learning_ (PLL), Indiana University. November 2024.
 
 ## Alphabetter app for IPA input
 I built a free app for macOS. Check it out on [GitHub](https://github.com/mikhael2/alphabetter-mac).
