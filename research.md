@@ -7,7 +7,7 @@ permalink: /research/
 ## Interests
 Phonology, poetry, Basque, historical linguistics.
 
-### More narrow interests
+### Narrower interests
 Rhyme as harmony, alliteration etc as rhyme, subregular models of phonological maps, origins of Basque, cognitive requirements of Basque improvised poetry duels (bertsolaritza).
 
 ### Poster from LSA 2026
