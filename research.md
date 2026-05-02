@@ -1,8 +1,8 @@
 ---
 title: "Research"
-layout: single
+layout: default
 permalink: /research/
-classes: wide
+nav_order: 2
 ---
 
 ## Interests

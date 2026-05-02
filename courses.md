@@ -1,7 +1,8 @@
 ---
 title: "Courses"
-layout: single
+layout: default
 permalink: /courses/
+nav_order: 3
 ---
 
 - Ling 210: Language History (FA25, SP26)

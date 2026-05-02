@@ -1,7 +1,8 @@
 ---
 title: "Contact"
-layout: single
+layout: default
 permalink: /contact/
+nav_order: 4
 ---
 
 * Email: mikhael2 [at] illinois [dot] edu

@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "just-the-docs"
+gem "jekyll-include-cache"
+gem "jekyll-remote-theme"
+gem "jekyll-sitemap"

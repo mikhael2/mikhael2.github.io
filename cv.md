@@ -1,7 +1,8 @@
 ---
 title: "CV"
-layout: single
+layout: default
 permalink: /cv/
+nav_order: 1
 ---
 <p>
   <a href="{{ '/assets/cv/cv.pdf' | relative_url }}">Download PDF</a>
