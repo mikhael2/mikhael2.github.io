@@ -1,0 +1,23 @@
+/* Custom CSS for premium look */
+.page { width: 100%; max-width: none; padding-left: 1rem; padding-right: 1rem; }
+.initial-content { max-width: 100%; }
+.wide .page__inner-wrap { max-width: 1400px; }
+/* Glassmorphism cards */
+.glass-card {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(12px);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.glass-card:hover { transform: translateY(-4px); box-shadow: 0 8px 30px rgba(0,0,0,0.15); }
+body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; }
+h1, h2, h3, h4 { font-weight: 600; }
+a { color: var(--color-primary); text-decoration: none; transition: color 0.2s ease; }
+a:hover { color: var(--color-accent); }
+::selection { background-color: teal; color: white; }
+::-moz-selection { background-color: teal; color: white; }
+img { max-width: 100%; height: auto; border-radius: 8px; }
