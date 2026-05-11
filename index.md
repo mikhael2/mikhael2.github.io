@@ -3,8 +3,8 @@ title: "Home"
 layout: default
 ---
 
-<img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Mikhael Hayes" width="200">
-<p><strong>Pronunciation:</strong> [maɪ̯kl̩]</p>
+<img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Mikhael Hayes" width="250">
+<p>[maɪ̯kl̩ heɪ̯z]</p>
 
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 

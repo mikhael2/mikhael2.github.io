@@ -5,8 +5,9 @@ baseurl: ""
 remote_theme: "just-the-docs/just-the-docs"
 color_scheme: "dark"
 
-# Preserve custom navigation order defined in _data/navigation.yml
-nav_sort: false
+just_the_docs:
+  nav_sort: false
+
 
 nav_external_links:
   - title: "Alphabetter"
