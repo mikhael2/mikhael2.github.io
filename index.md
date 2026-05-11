@@ -12,7 +12,7 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Quantifying Aspiration in Zuberoan Basque**. With José Ignacio Hualde, for _Anuario del Seminario de Filología Vasca "Julio de Urquijo"_ (ASJU). (Accepted April 2026)
 - **_Raddoppiamento Sintattico_ and related sandhi in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911)). (April 2026)
 - **Computing Rhyme: A Tier-Based Strictly Local Approach to Poetic Rhyme as Harmony**. With Scott Nelson, for _Glossa_. (In progress)
-- **_Sounds, the same but different_: A Tier-Based Strictly Local Unification of English Rhyme and Chinese Tonal Contrast in Poetry**. For the special issue _Meaning, Form, and History in Computational Poetics_ in _Computational Humanities Research_ (Cambridge). (Submitted February 2026)
+- **Sounds, the same but different: A Tier-Based Strictly Local Unification of English Rhyme and Chinese Tonal Contrast in Poetry**. (In progress)
 
 ## Presenting
 - **Poetic Rhyme as a Tier-Based Strictly Local Constraint**. Poster at the _2026 Linguistic Society of America Annual Meeting_ (LSA), New Orleans (with Scott Nelson). January 2026.
