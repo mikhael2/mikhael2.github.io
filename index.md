@@ -4,7 +4,8 @@ layout: default
 ---
 
 <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Mikhael Hayes" width="250">
-<p>[maɪ̯kl̩ heɪ̯z]</p>
+
+## [maɪ̯kl̩ heɪ̯z]
 
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 
