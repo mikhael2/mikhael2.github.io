@@ -16,10 +16,10 @@ I'm a PhD student in the Department of Linguistics at the University of Illinois
 - **Sounds, the same but different: A Tier-Based Strictly Local Unification of English Rhyme and Chinese Tonal Contrast in Poetry**. (In progress)
 
 ## Presenting
-- **Poetic Rhyme as a Tier-Based Strictly Local Constraint**. Poster at the _2026 Linguistic Society of America Annual Meeting_ (LSA), New Orleans (with Scott Nelson). January 2026.
+- **Poetic Rhyme as a Tier-Based Strictly Local Constraint**. <a href="{{ '/assets/lsa.pdf' | relative_url }}" target="_blank">Poster</a> at the _2026 Linguistic Society of America Annual Meeting_ (LSA), New Orleans (with Scott Nelson). January 2026.
 - **Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque**. Talk at the _First International Conference on the History of Basque_ (ICHB1), University of the Basque Country. November 2025.
 - **Computing Rhyme**. Talk at the _2025 Rutgers Subregular Morphophonology Workshop_, Rutgers University. November 2025.
-- **Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque**. Poster at the _29th Mid-Continental Phonetics and Phonology Conference_ (MidPhon 29), Indiana University. October 2025.
+- **Aspiration and its Historical Sources: Quantifying Aspiration in Zuberoan Basque**. <a href="{{ '/assets/midphon.pdf' | relative_url }}" target="_blank">Poster</a> at the _29th Mid-Continental Phonetics and Phonology Conference_ (MidPhon 29), Indiana University. October 2025.
 - **Tell it to me straight: Refusals in comparative pragmatics**. Talk at _Pragmatics and Language Learning_ (PLL), Indiana University. November 2024.
 
 ## Alphabetter app for IPA input
