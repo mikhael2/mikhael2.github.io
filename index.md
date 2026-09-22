@@ -7,7 +7,7 @@ layout: default
 
 # [maɪ̯kl̩ heɪ̯z]
 
-I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. In Fall 2026, I will be a [Chateaubriand Fellow](https://chateaubriand-fellowship.org/) and visiting researcher at [IKER](https://iker.cnrs.fr/?lang=en) (Research Centre for Basque Language and Texts, CNRS UMR5478) in Bayonne, France. I'm interested in phonology, poetry, Basque, and history.
+I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in phonology, poetry, Basque, and history.
 
 ## Writing
 - **Quantifying Aspiration in Zuberoan Basque**. With José Ignacio Hualde, for _Anuario del Seminario de Filología Vasca "Julio de Urquijo"_ (ASJU). (Accepted April 2026)
