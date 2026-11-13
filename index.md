@@ -10,7 +10,7 @@ layout: default
 I'm a PhD student in the Department of Linguistics at the University of Illinois Urbana-Champaign. I'm interested in Phonology, poetry, Basque, and history.
 
 ## Writing
-- **[Quantifying Aspiration in Zuberoan Basque](https://ojs.ehu.eus/index.php/ASJU/article/view/28076)**. With José Ignacio Hualde. _Anuario del Seminario de Filología Vasca "Julio de Urquijo"_ (ASJU). (September 2026)
+- **Quantifying Aspiration in Zuberoan Basque**. With José Ignacio Hualde. _Anuario del Seminario de Filología Vasca "Julio de Urquijo"_ ([ASJU](https://ojs.ehu.eus/index.php/ASJU/article/view/28076)). (September 2026)
 - **Computing Rhyme: A Tier-Based Strictly Local Approach to Poetic Rhyme as Harmony**. With Scott Nelson, for _Glossa_. (In peer review)
 - **_Raddoppiamento Sintattico_ and related sandhi in Logical Phonology** ([lingbuzz](https://ling.auf.net/lingbuzz/009911)). (In progress)
 - **Slant rhyme in _bertsolaritza_** ([OSF](https://osf.io/y3aeb/wiki?wiki=)). (In progress).
